@@ -9,5 +9,5 @@ Running Project
 •	Run the ChessDemo.java file.
 •	If IDE asks the SDK version, select Java 11.
   
-When program starts running it asks user to enter the txt file's absolute path so please be sure to write the absolute path. Then press enter.
+When program started it asks user to enter the txt file's absolute path so please be sure to write the absolute path. Then press enter.
 It will show the results.
