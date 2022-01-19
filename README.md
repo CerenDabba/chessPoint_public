@@ -1,4 +1,4 @@
-CSTECH_chess 
+chessPoint 
 
 Java 11 Project that calculates the total point for each player from given txt file which represents the chess board situation.
 If a chess piece is in danger by a queen, a knight or a pawn, then player gets a half of that piece's point. Otherwise player gets the total point.
